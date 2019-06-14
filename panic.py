@@ -1,2 +1,2 @@
 print "Don't panic."
-print "This is a bloody test"
+print "This is just a test."
